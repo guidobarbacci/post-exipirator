@@ -1,2 +1,2 @@
 # post-exipirator
-Scadenza post
+Plugin per impostare la scadenza post (versione tradotta per hlly)
